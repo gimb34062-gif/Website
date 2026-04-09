@@ -1,10 +1,12 @@
-nav {
+         nav {
+
                 background-color: rgb(255, 227, 227);
             }
 
             header {
                 background-color:#f9dbc6;
                 text-align: center;
+                padding:10px;
             }
 
             section {
@@ -14,6 +16,7 @@ nav {
             footer {
                 background-color: antiquewhite;
                 text-align: center;
+                padding:10px;
             }
 
             article {
@@ -32,3 +35,23 @@ nav {
                 font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
                 color: orange;
             }
+
+            h2 {
+                color:rgb(190, 126, 77);
+            }
+
+            h4 {
+                color:rgb(190, 126, 77);
+            }
+
+            .foot-p {
+                color:black;
+            }
+
+            header p {
+                color:rgb(190, 126, 77);
+            }
+
+
+
+            
