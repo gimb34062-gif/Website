@@ -3,6 +3,26 @@
                 background-color: rgb(255, 227, 227);
             }
 
+            nav ul{
+                list-style: none;
+                text-align: center;
+                padding: 30px;
+                margin-bottom: 0;
+            }
+
+            nav ul li{
+                display: inline;
+                margin:15px;
+            }
+
+            nav a{
+                text-decoration: none;
+            }
+
+            nav a:hover{
+                text-decoration: underline;
+            }
+
             header {
                 background-color:#f9dbc6;
                 text-align: center;
@@ -11,6 +31,7 @@
 
             section {
                 background-color: rgb(255, 200, 189);
+                padding:20px;
             }
 
             footer {
@@ -21,6 +42,10 @@
 
             article {
                 background-color: rgb(255, 227, 227);
+                padding: 15px;
+                margin-bottom: 25px;
+                border-radius: 15px;
+                box-shadow: 0 4px 8px rgb(200, 173, 173);
             }
 
             a {
